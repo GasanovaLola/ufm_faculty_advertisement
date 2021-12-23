@@ -11,16 +11,16 @@
 .card-users {
     border-radius: 50%;
     background-size: cover;
-    width: 150px;
-    height: 150px;
+    width: 125px;
+    height: 125px;
 }
 .card-gh {
-    width: 110px;
+    width: 125px;
     text-align: center;
     margin: 10px;
 }
 .card-gh p {
-    padding-left: 35px;
+    padding-top: 5px;
 }
 .logo {
     border-radius: 50%;
