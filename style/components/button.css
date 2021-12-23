@@ -1,0 +1,127 @@
+.button-dark1 {
+    background: #046bfc;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 16px;
+    padding: 18px 32px;
+    border: none;
+}
+.button-light2 {
+    background: #feac00;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 16px;
+    padding: 18px 32px;
+    border: none;
+}
+.button-dark1:hover {
+    background: #feac00;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 16px;
+    padding: 16px;
+    border: none;
+}
+.button-light2:hover {
+    background: #046bfc;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 16px;
+    padding: 16px;
+    border: none;
+}
+.sert-btn {
+    background: #618ce0;
+    border: none;
+    padding: 15px;
+    text-transform: uppercase;
+    color: #FFF;
+    border-radius: 10px;
+    margin: 20px 0;
+}
+.price-btn {
+    background: linear-gradient(135deg, #5a86ff, #00fff8);
+    padding: 13px 8px;
+    text-transform: uppercase;
+    border: 1px solid #fff;
+    border-radius: 11px; 
+    margin-top: 15px;
+}
+.price-btn1 {
+    background: linear-gradient(135deg, #00fff8, #e4ff00);
+    padding: 13px 8px;
+    text-transform: uppercase;
+    border: 1px solid #fff;
+    border-radius: 11px; 
+    margin-top: 15px;
+}
+@media (min-width: 1440px) and (max-width: 5000px) {
+    .button-dark, .button-dark1, .button-light2 {
+        padding: 16px;
+        border-radius: 8px;
+        letter-spacing: 1.5px;
+        font-size: 16px;
+    }
+    .button-light {
+        padding: 16px;
+        border-radius: 8px;
+        letter-spacing: 1.5px;
+        font-size: 16px;
+    }
+}
+@media (min-width: 1310px) and (max-width: 1440px) {
+    .button-dark, .button-dark1, .button-light2 {
+        padding: 16px;
+        border-radius: 8px;
+        letter-spacing: 1.5px;
+        font-size: 16px;
+    }
+    .button-light {
+        padding: 16px;
+        border-radius: 8px;
+        letter-spacing: 1.5px;
+        font-size: 16px;
+    }
+}
+@media (min-width: 770px) and (max-width: 1310px) {
+    .button-dark, .button-dark1, .button-light2 {
+        padding: 16px;
+        border-radius: 8px;
+        letter-spacing: 1.5px;
+        font-size: 16px;
+    }
+    .button-light {
+        padding: 16px;
+        border-radius: 8px;
+        letter-spacing: 1.5px;
+        font-size: 16px;
+    }
+}
+@media (min-width: 540px) and (max-width: 770px) {
+    .button-dark, .button-dark1, .button-light2 {
+        padding: 16px;
+        border-radius: 8px;
+        letter-spacing: 1.5px;
+        font-size: 16px;
+    }
+    .button-light {
+        padding: 16px;
+        border-radius: 8px;
+        letter-spacing: 1.5px;
+        font-size: 16px;
+    }   
+}
+@media (min-width: 320px) and (max-width: 540px) {
+    .button-dark, .button-dark1, .button-light2 {
+        padding: 8px 10px;
+        border-radius: 6px;
+        letter-spacing: 1.5px;
+        font-size: 14px;
+    }
+    .button-light {
+        padding: 8px 10px;
+        border-radius: 6px;
+        letter-spacing: 1.5px;
+        font-size: 14px;
+    }
+}
